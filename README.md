@@ -11,18 +11,18 @@
 - **Ingeniería Industrial** - UNLP (finalización ago. 2026)
 
 ### ● Cursos / Herramientas
-- **Building AI Agents & Agentic Workflows** — Coursera / IBM — [Fundamentals](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fundamentals-building-ai-agents-coursera.pdf) · [Agentic AI](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/agentic-ai-langchain-langgraph-coursera.pdf)
-- **IA Aplicada a la Industria** — ITBA (ago.–nov. 2026) - *en curso*
-- **Lean Six Sigma Green Belt** — UTN FRBA (desde jul. 2026) - *en curso*
-- **Programación con Python (PPI)** — UNLP - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
-- **Data Analytics Flex** (Excel · SQL · Power BI) — CoderHouse - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/data-analytics-flex-coderhouse.png)
+- **Building AI Agents & Agentic Workflows** - Coursera / IBM — [Fundamentals](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fundamentals-building-ai-agents-coursera.pdf) · [Agentic AI](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/agentic-ai-langchain-langgraph-coursera.pdf)
+- **IA Aplicada a la Industria** - ITBA (ago.–nov. 2026) - *en curso*
+- **Lean Six Sigma Green Belt** - UTN FRBA (desde jul. 2026) - *en curso*
+- **Programación con Python (PPI)** - UNLP - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
+- **Data Analytics Flex** (Excel · SQL · Power BI) - CoderHouse - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/data-analytics-flex-coderhouse.png)
 
 ### ● Idiomas
-- **Español** — nativo
-- **Inglés** — First Certificate in English (B2, Cambridge) - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fce-cambridge-b2.pdf)
+- **Español** - nativo
+- **Inglés** - First Certificate in English (B2, Cambridge) - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fce-cambridge-b2.pdf)
 
 ### ● Portafolio
-Mis proyectos —de ingeniería industrial y de datos/IA - viven en [**Lucasbarbuto/portfolio**](https://github.com/Lucasbarbuto/portfolio)
+Mis proyectos de ingeniería industrial y de datos/IA - viven en [**Lucasbarbuto/portfolio**](https://github.com/Lucasbarbuto/portfolio)
 
 ### ● Contacto
 [LinkedIn](https://www.linkedin.com/in/lucasbarbuto) · lucas.barbuto2002@gmail.com
