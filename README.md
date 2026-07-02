@@ -11,7 +11,7 @@
 - **Ingeniería Industrial** - UNLP (finalización ago. 2026)
 
 ### ● Cursos / Herramientas
-- **Building AI Agents & Agentic Workflows** - Coursera / IBM — [Fundamentals](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fundamentals-building-ai-agents-coursera.pdf) · [Agentic AI](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/agentic-ai-langchain-langgraph-coursera.pdf)
+- **Building AI Agents & Agentic Workflows** - Coursera / IBM - [Fundamentals](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fundamentals-building-ai-agents-coursera.pdf) · [Agentic AI](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/agentic-ai-langchain-langgraph-coursera.pdf)
 - **IA Aplicada a la Industria** - ITBA (ago.–nov. 2026) - *en curso*
 - **Lean Six Sigma Green Belt** - UTN FRBA (desde jul. 2026) - *en curso*
 - **Programación con Python (PPI)** - UNLP - [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
