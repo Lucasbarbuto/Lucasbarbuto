@@ -12,6 +12,7 @@
 
 ### ● Cursos / Herramientas
 - **Building AI Agents & Agentic Workflows (Specialization)** — Coursera / IBM — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/building-ai-agents-agentic-workflows-specialization-coursera.pdf)
+- **Certificado Profesional de Microsoft Excel (Specialization)** — Coursera / Microsoft — *en curso*
 - **IA Aplicada a la Industria** — ITBA (ago.–nov. 2026) — *en curso*
 - **Lean Six Sigma Green Belt** — UTN FRBA (desde jul. 2026) — *en curso*
 - **Programación con Python (PPI)** — UNLP — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
