@@ -23,7 +23,7 @@
 - **Inglés** — First Certificate in English (B2, Cambridge) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fce-cambridge-b2.pdf)
 
 ### ● Portafolio
-Mis proyectos —de ingeniería industrial y de datos/IA— viven en [**Lucasbarbuto/portfolio**](https://github.com/Lucasbarbuto/portfolio)
+Mis proyectos — [**Lucasbarbuto/portfolio**](https://github.com/Lucasbarbuto/portfolio)
 
 ### ● Contacto
 [LinkedIn](https://www.linkedin.com/in/lucasbarbuto) · lucas.barbuto2002@gmail.com
