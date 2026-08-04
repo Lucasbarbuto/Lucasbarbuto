@@ -13,6 +13,7 @@
 ### ● Cursos / Herramientas
 - **Building AI Agents & Agentic Workflows (Specialization)** — Coursera / IBM — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/building-ai-agents-agentic-workflows-specialization-coursera.pdf)
 - **Certificado Profesional de Microsoft Excel (Specialization)** — Coursera / Microsoft — *en curso*
+- **Claude 101** — Anthropic Academy — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/claude-101-anthropic.pdf)
 - **IA Aplicada a la Industria** — ITBA (ago.–nov. 2026) — *en curso*
 - **Lean Six Sigma Green Belt** — UTN FRBA (desde jul. 2026) — *en curso*
 - **Programación con Python (PPI)** — UNLP — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
@@ -23,7 +24,7 @@
 - **Inglés** — First Certificate in English (B2, Cambridge) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/fce-cambridge-b2.pdf)
 
 ### ● Portafolio
-Mis proyectos — [**Lucasbarbuto/portfolio**](https://github.com/Lucasbarbuto/portfolio)
+Mis proyectos —de ingeniería industrial y de datos/IA— viven en [**Lucasbarbuto/portfolio**](https://github.com/Lucasbarbuto/portfolio)
 
 ### ● Contacto
 [LinkedIn](https://www.linkedin.com/in/lucasbarbuto) · lucas.barbuto2002@gmail.com
