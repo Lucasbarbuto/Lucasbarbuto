@@ -16,6 +16,7 @@
 - **Claude 101** — Anthropic Academy — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/claude-101-anthropic.pdf)
 - **IA Aplicada a la Industria** — ITBA (ago.–nov. 2026) — *en curso*
 - **Lean Six Sigma Green Belt** — UTN FRBA (desde jul. 2026) — *en curso*
+- **Industrialización de Hidrocarburos (Cátedra YPF)** — Facultad de Ingeniería UNLP / YPF — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/industrializacion-hidrocarburos-ypf-unlp.pdf)
 - **Programación con Python (PPI)** — UNLP — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
 - **Data Analytics Flex** (Excel · SQL · Power BI) — CoderHouse — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/data-analytics-flex-coderhouse.png)
 
