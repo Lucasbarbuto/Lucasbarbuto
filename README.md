@@ -5,10 +5,14 @@
 > Industrial Engineering student (UNLP) focused on data analytics and process optimization. Building at the intersection of industrial engineering and applied AI.
 
 ### ● Stack
-`Python` · `SQL` · `Power BI` · `Excel` · `MatLab`
+`Python` · `SQL` · `Power BI` · `Excel` · `Tableau` · `n8n` · `AutoCAD` · `MatLab`
 
 ### ● Formación
-- **Ingeniería Industrial** — UNLP (finalización ago. 2026)
+- **Ingeniería Industrial** — UNLP (2021 a la actualidad, graduación prevista noviembre 2026)
+
+### ● Experiencia
+- **Pasante de Investigación**, MIT Informal Logistics Initiative (septiembre 2026 a la actualidad). Investigación aplicada sobre logística informal de última milla en Argentina, junto con el ITBA y la UNLP: relevamiento de datos primarios y análisis para el informe ejecutivo.
+- **Práctica Profesional Supervisada**, Laboratorio de Metrología, UNLP (mayo 2026 a la actualidad). Apoyo a la acreditación bajo ISO/IEC 17025, liderando el eje de trazabilidad metrológica e incertidumbre de medición, con análisis de brechas y redacción de procedimientos.
 
 ### ● Cursos / Herramientas
 - **Building AI Agents & Agentic Workflows (Specialization)** — Coursera / IBM — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/building-ai-agents-agentic-workflows-specialization-coursera.pdf)
