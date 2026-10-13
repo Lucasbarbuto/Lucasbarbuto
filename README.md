@@ -11,17 +11,17 @@
 - **Ingeniería Industrial** — UNLP (2021 a la actualidad, graduación prevista noviembre 2026)
 
 ### ● Experiencia
-- **Pasante de Investigación**, MIT Informal Logistics Initiative (septiembre 2026 a la actualidad). Investigación aplicada sobre logística informal de última milla en Argentina: relevamiento de datos primarios y análisis para el informe ejecutivo.
+- **Pasante de Investigación**, MIT Informal Logistics Initiative (septiembre 2026 a la actualidad). Investigación aplicada sobre logística informal de última milla en Argentina, junto con el ITBA y la UNLP: relevamiento de datos primarios y análisis para el informe ejecutivo.
 - **Práctica Profesional Supervisada**, Laboratorio de Metrología, UNLP (mayo 2026 a la actualidad). Apoyo a la acreditación bajo ISO/IEC 17025, liderando el eje de trazabilidad metrológica e incertidumbre de medición, con análisis de brechas y redacción de procedimientos.
 
 ### ● Cursos / Herramientas
-- **Building AI Agents & Agentic Workflows (Specialization)** — Coursera / IBM — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/building-ai-agents-agentic-workflows-specialization-coursera.pdf)
-- **Certificado Profesional de Microsoft Excel (Specialization)** — Coursera / Microsoft — *en curso*
-- **Claude 101** — Anthropic Academy — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/claude-101-anthropic.pdf)
 - **IA Aplicada a la Industria** — ITBA (ago.–nov. 2026) — *en curso*
+- **Claude 101** — Anthropic Academy — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/claude-101-anthropic.pdf)
 - **Lean Six Sigma Green Belt** — UTN FRBA (desde jul. 2026) — *en curso*
-- **Industrialización de Hidrocarburos (Cátedra YPF)** — Facultad de Ingeniería UNLP / YPF — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/industrializacion-hidrocarburos-ypf-unlp.pdf)
+- **Certificado Profesional de Microsoft Excel (Specialization)** — Coursera / Microsoft — *en curso*
+- **Building AI Agents & Agentic Workflows (Specialization)** — Coursera / IBM — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/building-ai-agents-agentic-workflows-specialization-coursera.pdf)
 - **Programación con Python (PPI)** — UNLP — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
+- **Industrialización de Hidrocarburos (Cátedra YPF)** — Facultad de Ingeniería UNLP / YPF — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/industrializacion-hidrocarburos-ypf-unlp.pdf)
 - **Data Analytics Flex** (Excel · SQL · Power BI) — CoderHouse — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/data-analytics-flex-coderhouse.png)
 
 ### ● Idiomas
