@@ -18,7 +18,7 @@
 - **IA Aplicada a la Industria** — ITBA (desde agosto 2026) — *en curso*
 - **Claude 101** — Anthropic Academy (agosto 2026) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/claude-101-anthropic.pdf)
 - **Lean Six Sigma Green Belt** — UTN FRBA (desde julio 2026) — *en curso*
-- **Certificado Profesional de Microsoft Excel (Specialization)** — Coursera / Microsoft (desde julio 2026) — *en curso*
+- **Microsoft Excel (Professional Certificate)** — Coursera / Microsoft (julio 2026 a octubre 2026) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/microsoft-excel-professional-certificate-coursera.pdf)
 - **Building AI Agents & Agentic Workflows (Specialization)** — Coursera / IBM (mayo 2026 a julio 2026) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/building-ai-agents-agentic-workflows-specialization-coursera.pdf)
 - **Programación con Python (PPI)** — UNLP (octubre 2025 a febrero 2026) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/python-ppi-unlp.pdf)
 - **Industrialización de Hidrocarburos (Cátedra YPF)** — Facultad de Ingeniería UNLP / YPF (abril 2025 a diciembre 2025) — [certificado](https://github.com/Lucasbarbuto/portfolio/blob/main/certificaciones/industrializacion-hidrocarburos-ypf-unlp.pdf)
